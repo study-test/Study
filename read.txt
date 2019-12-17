@@ -1,2 +1,6 @@
 git is a version control ststem
-git is free2 software
+<<<<<<< HEAD
+git is free1 software
+=======
+git is free1 software
+>>>>>>> dev
